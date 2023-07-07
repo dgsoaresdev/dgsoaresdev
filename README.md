@@ -1,13 +1,10 @@
 ## Hi there 👋 I'm Diogo
  A front-end/back-end developer with experience in UX/UI Design 👨‍💻
  
-![Linkedin](https://pasteboard.co/sdL418mAhicr.png)
+  <a href="https://www.linkedin.com/in/dgsoares/" target="_blank">
+ <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/58d38f53-ad3d-488d-b15e-42247b1dcc7b" alt="Linkedin DgSoares" />
+  </a>
 
-<img
-  src="https://pasteboard.co/sdL418mAhicr.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
 **About me**
