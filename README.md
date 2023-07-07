@@ -293,7 +293,7 @@
 <hr>
 <br>
 
-🚀 **<a href="https://www.bikinysociety.com.br/" target="_blank">Bikiny Society</a>** | 💡 **Shopify Ecommerce + ERP with Integration** | 📆 2020\
+🚀 **<a href="https://www.bikinysociety.com.br/" target="_blank">Bikiny Society</a>** | 💡 **Shopify Ecommerce and integration with ERP Bling** | 📆 2020\
 ✏️ **Design:** UX/UI Design, with prototyping theme customizations\
 💻 **Developer:** Front-end development of customizations and integration with ERP Bling.
 💻 **ERP Bling:** Modeling of spreadsheets to import data into the new ERP; Importation of loads and configurations in ERP Bling.
