@@ -33,7 +33,7 @@
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/2b559b6c-ff8d-473e-9d26-040700f724b1" alt="Magento" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/24990f4d-97ac-415b-a4d1-6cbaf961ab0d" alt="Shopify" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/eb6869cb-68be-49cd-8625-0059318819c3" alt="Figma" />
-  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/38ab1845-1a1a-425b-94fb-9c2f4a77edc3" alt="Illustrator" />
+  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/38ab1845-1a1a-425b-94fb-9c2f4a77edc3" alt="Illustrator" /> 
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/69787f06-b109-45d8-b1ee-a223ed8194d5" alt="Photoshop" />  
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/178309b5-cf34-4488-bcfe-2d0c913167df" alt="Bootstrap" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/6b06a74d-3def-4b11-8c02-73af59698c85" alt="UX/UI Design" />
