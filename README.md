@@ -6,7 +6,7 @@
   </a>
    <a style="display:inline-block" href="https://www.instagram.com/dgsoaresdev/" target="_blank"><img alt="Instagram" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626479-3530ff3d-3306-4c15-9eac-84e0296918e1.png" alt="Instagram DgSoares" />
    </a>
-   <a style="display:inline-block" href="https://www.diogosoares.com.br" target="_blank"><img alt="Site" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626547-b3d0dbde-5cd4-4397-a7e2-d3e37cfe32c1.png" alt="Site DgSoares" />
+   <a style="display:inline-block" href="https://weweb.com.br/diogo-soares" target="_blank"><img alt="Site" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626547-b3d0dbde-5cd4-4397-a7e2-d3e37cfe32c1.png" alt="Site DgSoares" />
    </a>
    <a style="display:inline-block" href="https://www.youtube.com/channel/UCdDwg5HMemMlUMtsqH-bfyA" target="_blank"><img alt="Youtube" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626639-65c13a12-60b9-4a92-a56d-b8d2713561df.png" alt="Youtube DgSoares" />
    </a>
@@ -16,8 +16,6 @@
    </a>
     </p>
 
-    
-
 
 <h2>About me</h2>
 <p>Wide experience in projects, with Front/Back Development and UX/UI Design skills. Currently, I'm studying AI, FrontEnd.JS and English.</p>
@@ -25,9 +23,10 @@
  <p style="display: flex;justify-content: center; text-align: center; width: 100%;">
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251631059-a6ef62f9-dc42-4b3e-8797-d2a2a9f6091a.png" alt="PHP" />
    <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/332d96e3-df6b-4e3b-a345-499ef7fb4a79" alt="Codeigniter" />
-   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/e0039678-015d-4de5-93d6-d285f0277c74" alt="Laravel" />
+   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/fe299379-8b84-4b9f-ba95-3b63112e165d" alt="Laravel" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/2286c6a1-526c-43cc-983d-0848902c07cd" alt="JavaScript" />    
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/55103f66-52ae-4b5a-b29d-d60274d382a8" alt="HTML" /> 
+   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/8b859fd0-5296-4b34-beee-dacbb2dc3126" alt="Gulp" /> 
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/9ea7cbdb-15ba-44cc-a906-873c2b6be81b" alt="SaSS" /> 
    <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/91981f61-96d9-4191-b8c6-8b27e913fbd2" alt="CSS" /> 
    <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/a210d979-cb98-4b6d-8177-a648751c21f4" alt="Wordpress" />
@@ -38,7 +37,6 @@
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/6b06a74d-3def-4b11-8c02-73af59698c85" alt="UX/UI Design" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/a04041f0-ad94-45cd-9174-7d708fcaa880" alt="Linux" />
  </p>
- 
 
 
 <details>
