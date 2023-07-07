@@ -414,6 +414,22 @@
 <hr>
 <br>
 
+🚀 **<a href="https://i9me.com.br" target="blank">I9ME</a>** | 💡 **Company Website** | 📆 2018\
+✏️ **Design:** Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide.\
+💻 **Developer management:**  Team development, front-end and back-end. Integration with CRM and Mailchimp.
+<br>
+
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+
+<br>
+<hr>
+<br>
+
 🚀 **Globo Consórcio** | 💡 **Company Website** | 📆 2017\
 ✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide.\
 💻 **Developer:** Front-end & Back-end development.
