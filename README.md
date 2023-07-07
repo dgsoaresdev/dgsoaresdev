@@ -48,7 +48,7 @@
 <details>
 <summary><h3>📃 Resume</h3></summary>
 <br>
-<h4>Experience</h4>
+<h4>Experience:</h4>
 <br>
  
 👨‍💻 **PHP Software Developer** | 📆 2021 - moment\
@@ -103,6 +103,7 @@
 👨‍💻 **PMP | Front-end Developer | UI Designer** | 📆 2010 - 2013\
 📍 **ZoeWeb** - Goiânia/GO, BR
 <br>
+
 <img align="left" src="https://img.shields.io/badge/Magento-1572B6?logo=magento&color=red&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
@@ -117,6 +118,7 @@
 👨‍💻 **Front-end Developer | UI Designer** | 📆 2007 - 2010\
 📍 **Neo Criação** - Açailândia/MA, BR
 <br>
+
 <img align="left" src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
@@ -124,47 +126,37 @@
 <img align="left" src="https://img.shields.io/badge/MySQL-563D7C?logo=mysql&color=13859f&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
 
-
-
-
 <br>
+<hr>
 
+ <h4>Education:</h4>
+ <br>
 
-
- <h4>Education</h4>
-
-- 👨‍💻 **Machine Learning** - Degree\
-📆 2023 - moment\
+👨‍💻 **Machine Learning** - Degree | 📆 2023 - moment\
 📍 **UDACITY** Online
 <br>
 
-- 👨‍💻 **Cyber Security** - Technical Course\
-📆 2023 - moment\
+👨‍💻 **Cyber Security** - Technical Course | 📆 2023 - moment\
 📍 Online
 <br>
 
-- 👨‍💻 **English Course** - Degree\
-📆 2023 - moment\
+👨‍💻 **English Course** - Degree | 📆 2023 - moment\
 📍 **ABA English** - Online
 <br>
 
-- 👨‍💻 **Codeigniter PHP Framework** - Technical Course\
-📆 2018\
+👨‍💻 **Codeigniter PHP Framework** - Technical Course | 📆 2018\
 📍 Online
 <br>
 
-- 👨‍💻 **PHPOO** - Technical Course\
-📆 2013\
+👨‍💻 **PHPOO** - Technical Course | 📆 2013\
 📍 Online
 <br>
 
-- 👨‍💻 **UX/UI Design** - Technical Course\
-📆 2013\
+👨‍💻 **UX/UI Design** - Technical Course | 📆 2013\
 📍 Online
 <br>
 
-- 👨‍💻 **Advertising Degree** - Bachelor\
-📆 2010 - 2013\
+👨‍💻 **Advertising Degree** - Bachelor | 📆 2010 - 2013\
 📍 **PUC - GO** BR
 <br>
 </details>
