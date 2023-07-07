@@ -188,7 +188,7 @@
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 
-- 👨‍💻 **Increments**\
+- 👨‍💻 **New Features**\
 📆 2022 - moment\
 📍 **Emilio Ribas**\
 📍 Designer: Protipações em baixa, média e alta fidalidade\
