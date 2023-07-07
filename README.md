@@ -1,6 +1,5 @@
 <h1>Hi there 👋 I'm Diogo</h1>
  <p>A front-end/back-end developer with experience in UX/UI Design 👨‍💻</p>
- 
   <p style="display: flex;justify-content: center; text-align: center; width: 100%;">
   <a style="display:inline-block" href="https://www.linkedin.com/in/dgsoares/" target="_blank"><img alt="Linkedin" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251623217-58d38f53-ad3d-488d-b15e-42247b1dcc7b.png" alt="Linkedin DgSoares" />
   </a>
@@ -234,7 +233,7 @@
 
 🚀 **Masterquip** | 💡 **Company Website** | 📆 2023\
 ✏️ Design management: Management UX/UI Design, with prototyping in low, medium and high fidelity\
-💻 Developer: Front-end & Back-end development
+💻 Developer: Front-end & Back-end development and integration API development project with CRM and MailChimp
 <br>
  
 <img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
@@ -249,35 +248,29 @@
 <hr>
 <br>
 
-💡 **UX/UI Design for Mobile App** | 🚀 **Capta Comercial** | 📆 2021\
-✏️ UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide\
+🚀 **Agendaê** | 💡 **UX/UI Design for Mobile App with two versions (partner & customer)** | 📆 2022\
+✏️ Design management: Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide\
 💻 Developer: Front-end & Back-end development
 <br>
 
-<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
-<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 
 <br>
 <hr>
 <br>
 
-💡 **Website Institucional** | 🚀 **Capta Comercial** | 📆 2023\
-✏️ UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide\
-💻 Developer: Front-end & Back-end development
-<br>
+🚀 **Capta Venda Consultiva** | 💡 **Ecommerce + Company Site** | 📆 2022\
+✏️ Design management: Management UX/UI Design, with prototyping in low, medium and high fidelity\
+💻 Developer: Front-end & Back-end development and integration API development project with CRM and MailChimp 
+ <br>
 
-<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
-<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 
 <br>
 <hr>
