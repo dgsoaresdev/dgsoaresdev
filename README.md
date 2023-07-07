@@ -36,13 +36,42 @@
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/178309b5-cf34-4488-bcfe-2d0c913167df" alt="Bootstrap" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/6b06a74d-3def-4b11-8c02-73af59698c85" alt="UX/UI Design" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/a04041f0-ad94-45cd-9174-7d708fcaa880" alt="Linux" />
+  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/b24934b4-08e8-4e49-a6de-a87f28589286" alt="MySQL" />
  </p>
-
+ 
 
 <details>
 <summary>📃 Resume</summary>
 <br>
-Well, you asked for it!
+<h4>Experience</h4>
+
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+
+- 👨‍💻 **PHP Developer**\
+📆 2021 - moment\
+📍 **Haws Digital Software Software** - Fortaleza/CE, Brazil
+
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+
+- 👨‍💻 **Systems Analyst and Front End Developer**\
+📆 2015 - 2016\
+📍 **Web Works** - Presidente Prudente/SP, Brazil
+
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
+
+
+- 👨‍💻 **Office Assistant**\
+📆 2011 - 2015\
+📍 **Energisa** - Presidente Prudente/SP, Brazil
 </details>
 
 <details>
