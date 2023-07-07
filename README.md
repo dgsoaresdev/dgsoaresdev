@@ -284,7 +284,7 @@
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 
-🚀 ***<a href="https://artefapi.com.vr.com.br" target="_blank">Artefapi</a>** | 💡 **Ecommerce + Company Website** | 📆 2023\
+🚀 **<a href="https://artefapi.com.vr.com.br" target="_blank">Artefapi</a>** | 💡 **Ecommerce + Company Website** | 📆 2023\
 ✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity\
 💻 **Developer:** Front-end & Back-end development and integration API development project with CRM and MailChimp
 <br>
