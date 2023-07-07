@@ -29,8 +29,8 @@
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/9ea7cbdb-15ba-44cc-a906-873c2b6be81b" alt="SaSS" /> 
    <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/91981f61-96d9-4191-b8c6-8b27e913fbd2" alt="CSS" /> 
    <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/a210d979-cb98-4b6d-8177-a648751c21f4" alt="Wordpress" />
-  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/167af2c5-7ae2-4144-8919-eb1c79b78fc8" alt="WooCommerce" /> 
-  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/2b559b6c-ff8d-473e-9d26-040700f724b1" alt="Magento" />
+  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/c69e82d0-ac02-483b-ad31-d6c6114df055" alt="WooCommerce" /> 
+  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/18d06ba3-3608-4e5a-959c-ff9a19faee9e" alt="Magento" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/24990f4d-97ac-415b-a4d1-6cbaf961ab0d" alt="Shopify" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/eb6869cb-68be-49cd-8625-0059318819c3" alt="Figma" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/38ab1845-1a1a-425b-94fb-9c2f4a77edc3" alt="Illustrator" /> 
@@ -39,9 +39,10 @@
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/6b06a74d-3def-4b11-8c02-73af59698c85" alt="UX/UI Design" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/a04041f0-ad94-45cd-9174-7d708fcaa880" alt="Linux" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/43148717-f464-41a5-93aa-af65ae82ba7e" alt="MySQL" />
-  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/58d26ac0-2fd0-40c2-91d4-6cd64e4b1ee9" alt="Zapier" />
-  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/2ed62bd0-2e3b-4600-9746-a29da0dc7720" alt="Bling" />
+  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/41a9da41-488c-418b-8257-8087d5231ebe" alt="Zapier" />
+  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/4baa1d3a-5ece-42a4-b1df-3f178057b96f" alt="Bling" />
  </p>
+
 
 
 <details>
