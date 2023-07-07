@@ -329,7 +329,7 @@
 <hr>
 <br>
 
-🚀 **<a href="https://eletronicaapolo.com.br" target="_blank">Emetrônica Apolo</a>** | 💡 **Ecommerce + Company Website** | 📆 2023\
+🚀 **<a href="https://eletronicaapolo.com.br" target="_blank">Eletrônica Apolo</a>** | 💡 **Ecommerce + Company Website** | 📆 2023\
 ✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity\
 💻 **Developer:** Front-end & Back-end development and integration API development project with CRM, ERP and MailChimp
 <br>
