@@ -72,7 +72,7 @@
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 
-- 👨‍💻 **Web Developer & UX/UI Designer**\
+- 👨‍💻 **Full Stack & UX/UI**\
 📆 2015 - moment\
 📍 **I9ME Webdesign** - Fortaleza/CE, BR
 
@@ -86,7 +86,7 @@
 <img align="right" src="https://img.shields.io/badge/Magento-1572B6?logo=magento&color=red&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 
-- 👨‍💻 **Project Manager | Web Developer | UX/UI Designer**\
+- 👨‍💻 **PMP | Full Stack Developer | UX/UI**\
 📆 2013 - 2015\
 📍 **MMMODA** - Fortaleza/CE, BR
 
@@ -99,7 +99,7 @@
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Magento-1572B6?logo=magento&color=red&logoColor=white" />
 
-- 👨‍💻 **Project Manager | Front-end Developer | UI Designer**\
+- 👨‍💻 **PMP | Front-end Developer | UI Designer**\
 📆 2010 - 2013\
 📍 **ZoeWeb** - Goiânia/GO, BR
 
@@ -112,37 +112,51 @@
 <img align="right" src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white" />
 
-- 👨‍💻 ** Front-end Developer | UI Designer**\
+- 👨‍💻 **Front-end Developer | UI Designer**\
 📆 2007 - 2010\
-📍 **NeoCriação** - Açailândia/MA, BR
+📍 **Neo Criação** - Açailândia/MA, BR
 
 <br>
 
+
+
+
  <h4>Education</h4>
 
-- 👨‍💻 **Computer engineering** - Bachelor\
+- 👨‍💻 **Machine Learning** - Degree\
 📆 2023 - moment\
-📍 **Faculdade Descomplica** BR
+📍 **UDACITY** Online
+<br>
 
 - 👨‍💻 **Cyber Security** - Technical Course\
 📆 2023 - moment\
-📍 **Faculdade Descomplica** BR
+📍 Online
+<br>
+
+- 👨‍💻 **English Course** - Degree\
+📆 2023 - moment\
+📍 **ABA English, +** - Online
+<br>
 
 - 👨‍💻 **Codeigniter PHP Framework** - Technical Course\
 📆 2018\
-📍 **Faculdade Descomplica** BR
+📍 Online
+<br>
 
 - 👨‍💻 **PHPOO** - Technical Course\
 📆 2013\
-📍 **Faculdade Descomplica** BR
+📍 Online
+<br>
 
 - 👨‍💻 **UX/UI Design** - Technical Course\
 📆 2013\
-📍 **Faculdade Descomplica** BR
+📍 Online
+<br>
 
 - 👨‍💻 **Advertising Degree** - Bachelor\
 📆 2010 - 2013\
 📍 **PUC - GO** BR
+<br>
 </details>
 
 <details>
@@ -156,11 +170,27 @@
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 
+- 👨‍💻 **Software PHP - Developer Full  Stack**\
+📆 2022 - moment\
+📍 **Edu Plataforma**
+📍 Designer: Protipações em baixa, média e alta fidalidade
+📍 Developer: Front-end & Back-end development
+<br>
+
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
 - 👨‍💻 **Increments**\
 📆 2022 - moment\
 📍 **Emilio Ribas**
 📍 Designer: Protipações em baixa, média e alta fidalidade
 📍 Developer: Front-end & Back-end development
+
 <br>
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
@@ -169,12 +199,14 @@
 <img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
 - 👨‍💻 **Website Institucional**\
 📆 2023\
 📍 **Paralelas** www.cialne.com.br
 📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide
 📍 Developer: Front-end & Back-end development
  <br>
+ 
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
@@ -182,12 +214,14 @@
 <img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
 - 👨‍💻 **Website Institucional**\
 📆 2023\
 📍 **CIALNE Alimentos** www.cialne.com.br
 📍 UX/UI Manager: Protipações em baixa, média e alta fidalidade | Style Guide
 📍 Developer: Front-end & Back-end development
  <br>
+ 
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
@@ -195,12 +229,14 @@
 <img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
  - 👨‍💻 **Website Institucional**\
 📆 2023\
 📍 **Masterquip** www.masterquip.com.br
 📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
 📍 Developer: Front-end & Back-end development
  <br>
+ 
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
@@ -208,6 +244,7 @@
 <img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
    - 👨‍💻 **UX/UI Design for Mobile App**\
 📆 2021\
 📍 **Capta Comercial** www.masterquip.com.br
@@ -221,12 +258,14 @@
 <img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
   - 👨‍💻 **Website Institucional**\
 📆 2023\
 📍 **Capta Comercial** www.masterquip.com.br
 📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
 📍 Developer: Front-end & Back-end development
 <br>
+
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
@@ -234,11 +273,14 @@
 <img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
+- 👨‍💻 **Website Institucional + E-commerce**\
  📆 2023\
 📍 **Artefapi** www.masterquip.com.br
 📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
 📍 Developer: Front-end & Back-end development
 <br>
+
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
@@ -246,11 +288,14 @@
 <img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
+- 👨‍💻 **Website Institucional + E-commrce**\
   📆 2023\
 📍 **Eletronica Apolo** www.masterquip.com.br
 📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide
 📍 Manager/Developer: Front-end & Back-end development
 <br>
+
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
@@ -258,11 +303,14 @@
 <img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
+- 👨‍💻 **Website Institucional**\
   📆 2017\
 📍 **Globo Consorcio** www.masterquip.com.br
 📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade
 📍 Developer: Front-end & Back-end development
 <br>
+
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
@@ -270,10 +318,12 @@
 <img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
  📆 2016\
 📍 **Zoeweb** www.masterquip.com.br
 📍 Developer: Front-end & Back-end development
  <br>
+ 
  
  
 </details>
