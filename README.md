@@ -7,7 +7,7 @@
    </a>
    <a style="display:inline-block" href="https://weweb.com.br/diogo-soares" target="_blank"><img alt="Site" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626547-b3d0dbde-5cd4-4397-a7e2-d3e37cfe32c1.png" alt="Site DgSoares" />
    </a>
-   <a style="display:inline-block" href="https://www.youtube.com/channel/UCdDwg5HMemMlUMtsqH-bfyA" target="_blank"><img alt="Youtube" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626639-65c13a12-60b9-4a92-a56d-b8d2713561df.png" alt="Youtube DgSoares" />
+   <a style="display:inline-block" href="https://www.youtube.com/@diogosoares5517" target="_blank"><img alt="Youtube" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626639-65c13a12-60b9-4a92-a56d-b8d2713561df.png" alt="Youtube DgSoares" />
    </a>
    <a style="display:inline-block" href="https://www.behance.net/dgsoares" target="_blank"><img alt="Berance" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626928-dc7ec870-3bd5-4c6f-9fe9-0b8aacf0c91b.png" alt="Behance DgSoares" />
    </a>
