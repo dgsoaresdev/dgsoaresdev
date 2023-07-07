@@ -104,6 +104,19 @@
 📍 **ZoeWeb** - Goiânia/GO, BR
 
  .
+ 
+ <img align="right" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-563D7C?logo=mysql&color=13859f&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-1572B6?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white" />
+
+- 👨‍💻 ** Front-end Developer | UI Designer**\
+📆 2007 - 2010\
+📍 **NeoCriação** - Açailândia/MA, BR
+
+ .
 </details>
 
 <details>
