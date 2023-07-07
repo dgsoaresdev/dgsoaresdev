@@ -163,7 +163,7 @@
 <summary><h3>💼 Portfolio</h3></summary>
 <br>
  
-🚀 **Edu Plataforma - E-learning Platform** | 💡 **PHP Software** | 📆 2022 - moment\
+🚀 **<a href="https://eduplataforma.com.br" target="_blank">Edu Plataforma - E-learning Platform</a>** | 💡 **PHP Software** | 📆 2022 - moment\
 ✏️ **Designer**: UX/UI Design, with prototyping in low, medium and high fidelity\
 💻 **Developer**: Front-end & Back-end Development
 <br>
@@ -181,7 +181,7 @@
 <hr>
 <br>
 
-🚀 **Emilio Ribas** | 💡 **Wordpress new features** | 📆 2022 - moment\
+🚀 **<a href="https://captacomercial.com.br" target="_blank">Emilio Ribas</a>** | 💡 **Wordpress new features** | 📆 2022 - moment\
 ✏️ Designer: UX/UI Design, with prototyping in low, medium and high fidelity | creation of new user interfaces\
 💻 Developer: Front-end & Back-end Development | New features in theme and new plugins
 <br>
@@ -198,7 +198,7 @@
 <hr>
 <br>
 
-🚀 **Paralelas Calçados** | 💡 **Ecommerce** | 📆 2023\
+🚀 **<a href="https://vaideparalelas.com.br" target="_blank">Paralelas Calçados</a>** | 💡 **Ecommerce** | 📆 2023\
 ✏️ Design management: Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide\
 💻 Developer: Front-end & Back-end development and Management of the integration API development project with ERP VarejoOnline 
  <br>
@@ -215,7 +215,7 @@
 <hr>
 <br>
 
-🚀 **CIALNE Alimentos** | 💡 **Company Website** | 📆 2022\
+🚀 **<a href="https://cialne.com.br" target="_blank">CIALNE Alimentos</a>** | 💡 **Company Website** | 📆 2022\
 ✏️ Design management: Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide\
 💻 Developer: Front-end & Back-end development
 <br>
@@ -259,7 +259,7 @@
 <hr>
 <br>
 
-🚀 **Capta Venda Consultiva** | 💡 **Ecommerce + Company Site** | 📆 2022\
+🚀 **<a href="https://captacomercial.com.br" target="_blank">Capta Venda Consultiva</a>** | 💡 **Ecommerce + Company Site** | 📆 2022\
 ✏️ Design management: Management UX/UI Design, with prototyping in low, medium and high fidelity\
 💻 Developer: Front-end & Back-end development and integration API development project with CRM and MailChimp 
  <br>
