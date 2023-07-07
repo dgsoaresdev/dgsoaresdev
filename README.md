@@ -16,12 +16,16 @@
    </a>
     </p>
 
+    
+
 
 <h2>About me</h2>
 <p>Wide experience in projects, with Front/Back Development and UX/UI Design skills. Currently, I'm studying AI, FrontEnd.JS and English.</p>
 <h3>Skills & Tools</h3>
  <p style="display: flex;justify-content: center; text-align: center; width: 100%;">
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251631059-a6ef62f9-dc42-4b3e-8797-d2a2a9f6091a.png" alt="PHP" />
+   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/332d96e3-df6b-4e3b-a345-499ef7fb4a79" alt="Codeigniter" />
+   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/e0039678-015d-4de5-93d6-d285f0277c74" alt="Laravel" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/2286c6a1-526c-43cc-983d-0848902c07cd" alt="JavaScript" />    
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/55103f66-52ae-4b5a-b29d-d60274d382a8" alt="HTML" /> 
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/9ea7cbdb-15ba-44cc-a906-873c2b6be81b" alt="SaSS" /> 
@@ -35,7 +39,8 @@
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/a04041f0-ad94-45cd-9174-7d708fcaa880" alt="Linux" />
  </p>
  
- 
+
+
 <details>
 <summary>📃 Resume</summary>
 <br>
