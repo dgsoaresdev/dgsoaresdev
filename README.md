@@ -31,19 +31,25 @@
    <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/a210d979-cb98-4b6d-8177-a648751c21f4" alt="Wordpress" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/167af2c5-7ae2-4144-8919-eb1c79b78fc8" alt="WooCommerce" /> 
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/2b559b6c-ff8d-473e-9d26-040700f724b1" alt="Magento" />
+  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/24990f4d-97ac-415b-a4d1-6cbaf961ab0d" alt="Shopify" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/eb6869cb-68be-49cd-8625-0059318819c3" alt="Figma" />
+  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/38ab1845-1a1a-425b-94fb-9c2f4a77edc3" alt="Illustrator" />
+  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/69787f06-b109-45d8-b1ee-a223ed8194d5" alt="Photoshop" />  
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/178309b5-cf34-4488-bcfe-2d0c913167df" alt="Bootstrap" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/6b06a74d-3def-4b11-8c02-73af59698c85" alt="UX/UI Design" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/a04041f0-ad94-45cd-9174-7d708fcaa880" alt="Linux" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/43148717-f464-41a5-93aa-af65ae82ba7e" alt="MySQL" />
+  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/58d26ac0-2fd0-40c2-91d4-6cd64e4b1ee9" alt="Zapier" />
+  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/2ed62bd0-2e3b-4600-9746-a29da0dc7720" alt="Bling" />
  </p>
- 
+
 
 <details>
 <summary>📃 Resume</summary>
 <br>
 <h4>Experience</h4>
 
+ <img align="right" src="https://img.shields.io/badge/Linux-563D7C?logo=linux&color=yellow&logoColor=black" />
  <img align="right" src="https://img.shields.io/badge/MySQL-563D7C?logo=mysql&color=13859f&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
   <img align="right" src="https://img.shields.io/static/v1?label=PHP&message=Codeigniter&color=purple&style=flat&logo=php&logoColor=white" />
@@ -72,29 +78,32 @@
 
  .
 
+<img align="right" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Magento-1572B6?logo=magento&color=red&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
 
 - 👨‍💻 **Project Manager | Web Developer | UX/UI Designer**\
-📆 2015 - moment\
+📆 2013 - 2015\
 📍 **MMMODA** - Fortaleza/CE, BR
 
  .
 
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Webservice-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Magento-1572B6?logo=magento&color=red&logoColor=white" />
 
+- 👨‍💻 **Project Manager | Front-end Developer | UI Designer**\
+📆 2010 - 2013\
+📍 **ZoeWeb** - Goiânia/GO, BR
 
-- 👨‍💻 **Office Assistant**\
-📆 2011 - 2015\
-📍 **Energisa** - Presidente Prudente/SP, Brazil
+ .
 </details>
 
 <details>
