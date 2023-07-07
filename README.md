@@ -449,7 +449,7 @@
 <br>
 
 🚀 **Zoeweb** | 💡 **Company Website** | 📆 2016\
-💻 **Developer:** Front-end & Back-end development.
+💻 **Developer:** Front-end & Back-end development | Integration with CRM and ActiveCampaing.
 <br>
 
 <img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
@@ -497,6 +497,20 @@
 <hr>
 <br>
 
+🚀 **<a href="https://minerbz.com.br/" target="blank">MINER</a>** | 💡 **Company Website** | 📆 2022\
+💻 **Developer:** Theme customization using the Elementor plugin and integration with CRM and ActiveCampaing.
+<br>
+
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Elementor-1572B6?logo=elementor&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&color=blue&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+
+<br>
+<hr>
+<br>
 
 🚀 **<a href="https://cesis.bio.br/" target="blank">CESIS</a>** | 💡 **Company Website** | 📆 2022\
 💻 **Developer:** Theme customization using the Elementor plugin and integration with CRM and MailChimp.
