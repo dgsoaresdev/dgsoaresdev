@@ -38,11 +38,10 @@
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/178309b5-cf34-4488-bcfe-2d0c913167df" alt="Bootstrap" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/6b06a74d-3def-4b11-8c02-73af59698c85" alt="UX/UI Design" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/a04041f0-ad94-45cd-9174-7d708fcaa880" alt="Linux" />
-  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/43148717-f464-41a5-93aa-af65ae82ba7e" alt="MySQL" />
+  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/78e0ad67-d828-4c0d-a8dd-95d1f653fc69" alt="MySQL" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/41a9da41-488c-418b-8257-8087d5231ebe" alt="Zapier" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/4baa1d3a-5ece-42a4-b1df-3f178057b96f" alt="Bling" />
  </p>
-
 
 
 <details>
