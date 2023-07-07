@@ -550,7 +550,7 @@
 <summary><h3>📺 Content</h3></summary>
 <br>
  
-📹 **<a href="https://www.youtube.com/watch?v=qkm6xuHgx1k" target="_blank">Watch</a>** | 💡 **Automated segmentation, with Active Campaign** | 📆 2023/MAR\
+📹 **<a href="https://www.youtube.com/watch?v=qkm6xuHgx1k" target="_blank">Watch</a>** | 💡 **Automated segmentation, with Active Campaign** | 📆 2023/MAR
 
 <br>
 <hr>
