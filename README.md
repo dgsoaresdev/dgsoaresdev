@@ -45,7 +45,7 @@
 
 
 <details>
-<summary>📃 Resume</summary>
+<summary><h3>📃 Resume</h3></summary>
 <br>
 <h4>Experience</h4>
 
@@ -120,7 +120,7 @@
 </details>
 
 <details>
-<summary>💼 Portfolio</summary>
+<summary><h3>💼 Portfolio</h3></summary>
 <br>
 Well, you asked for it!
 </details>
