@@ -16,7 +16,6 @@
    </a>
     </p>
 
-
 <h2>About me</h2>
 <p>Wide experience in projects, with Front/Back Development and UX/UI Design skills. Currently, I'm studying AI, FrontEnd.JS and English.</p>
 <h3>Skills & Tools</h3>
@@ -36,7 +35,7 @@
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/178309b5-cf34-4488-bcfe-2d0c913167df" alt="Bootstrap" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/6b06a74d-3def-4b11-8c02-73af59698c85" alt="UX/UI Design" />
   <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/a04041f0-ad94-45cd-9174-7d708fcaa880" alt="Linux" />
-  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/b24934b4-08e8-4e49-a6de-a87f28589286" alt="MySQL" />
+  <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/43148717-f464-41a5-93aa-af65ae82ba7e" alt="MySQL" />
  </p>
  
 
@@ -45,23 +44,47 @@
 <br>
 <h4>Experience</h4>
 
+ <img align="right" src="https://img.shields.io/badge/MySQL-563D7C?logo=mysql&color=13859f&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+  <img align="right" src="https://img.shields.io/static/v1?label=PHP&message=Codeigniter&color=purple&style=flat&logo=php&logoColor=white" />
+   <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 
-- 👨‍💻 **PHP Developer**\
+- 👨‍💻 **PHP Software Developer**\
 📆 2021 - moment\
-📍 **Haws Digital Software Software** - Fortaleza/CE, Brazil
+📍 **Haws Digital Software Software** - Fortaleza/CE, BR
 
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+ .
+
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
+- 👨‍💻 **Web Developer & UX/UI Designer**\
+📆 2015 - moment\
+📍 **I9ME Webdesign** - Fortaleza/CE, BR
+
+ .
+
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Magento-1572B6?logo=magento&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
 
-- 👨‍💻 **Systems Analyst and Front End Developer**\
-📆 2015 - 2016\
-📍 **Web Works** - Presidente Prudente/SP, Brazil
+- 👨‍💻 **Project Manager | Web Developer | UX/UI Designer**\
+📆 2015 - moment\
+📍 **MMMODA** - Fortaleza/CE, BR
+
+ .
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
