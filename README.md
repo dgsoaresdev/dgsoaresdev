@@ -329,12 +329,80 @@
 <hr>
 <br>
 
-🚀 **<a href="https://eletronicaapolo.com.br" target="_blank">Eletrônica Apolo</a>** | 💡 **Ecommerce + Company Website** | 📆 2023\
+🚀 **<a href="https://eletronicaapolo.com.br" target="_blank">Eletrônica Apolo</a>** | 💡 **Ecommerce + Company Website** | 📆 2019\
 ✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity\
-💻 **Developer:** Front-end & Back-end development and integration API development project with CRM, ERP and MailChimp
+💻 **Developer management:**  Team development, front-end and back-end. Integration with CRM, ERP and Mailchimp.
 <br>
  
 <img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+
+<br>
+<hr>
+<br>
+
+🚀 **Zia Partner** | 💡 **Landing Page** | 📆 2018\
+✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity.\
+💻 **Developer management:**  Team development, front-end and back-end. Integration with CRM and Mailchimp.
+<br>
+ 
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+
+<br>
+<hr>
+<br>
+
+🚀 **<a href="http://franquia.pizzavignoli.com.br/" target="_blank">Barneys Burger</a>** | 💡 **Company Website** | 📆 2019\
+✏️ **Design:** UX/UI Design, with prototyping in low, medium and high fidelity.\
+💻 **Developer management:**  Team development, front-end and back-end. Integration with CRM and Mailchimp.
+<br>
+ 
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+
+<br>
+<hr>
+<br>
+
+🚀 **<a href="http://franquia.pizzavignoli.com.br/" target="_blank">Franquia Barneys Burger</a>** | 💡 **Landing Page** | 📆 2018\
+✏️ **Design:** UX/UI Design, with prototyping in low, medium and high fidelity.\
+💻 **Developer:** Front-end & Back-end development and integration API development project with CRM and MailChimp.
+<br>
+ 
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+
+<br>
+<hr>
+<br>
+
+🚀 **<a href="http://franquia.pizzavignoli.com.br/" target="_blank">Franquia Pizza Vignoli</a>** | 💡 **Landing Page** | 📆 2018\
+✏️ **Design:** UX/UI Design, with prototyping in low, medium and high fidelit.\
+💻 **Developer:** Front-end & Back-end development and integration API development project with CRM and MailChimp.
+<br>
+ 
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
@@ -370,6 +438,86 @@
 <img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+
+<br>
+<hr>
+<br>
+
+<h3>🖌 Wordpress Elementor Projects</h3>
+<br>
+
+🚀 **<a href="https://eduplataforma.com.br/" target="blank">Edu Plataforma</a>** | 💡 **Landing Page** | 📆 2023\
+💻 **Developer:** Theme customization using the Elementor plugin and integration with CRM and MailChimp.
+<br>
+
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Elementor-1572B6?logo=elementor&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&color=blue&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+
+<br>
+<hr>
+<br>
+
+
+🚀 **<a href="https://helainespa.com/" target="blank">Helaine SPA</a>** | 💡 **Company Website** | 📆 2023\
+💻 **Developer:** Theme customization using the Elementor plugin and integration with CRM and MailChimp.
+<br>
+
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Elementor-1572B6?logo=elementor&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&color=blue&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+
+<br>
+<hr>
+<br>
+
+
+🚀 **<a href="https://cesis.bio.br/" target="blank">CESIS</a>** | 💡 **Company Website** | 📆 2022\
+💻 **Developer:** Theme customization using the Elementor plugin and integration with CRM and MailChimp.
+<br>
+
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Elementor-1572B6?logo=elementor&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&color=blue&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+
+<br>
+<hr>
+<br>
+
+🚀 **<a href="https://haws.digital/" target="blank">Haws Digital</a>** | 💡 **Landing Page** | 📆 2021\
+💻 **Developer:** Theme customization using the Elementor plugin and integration with CRM and MailChimp.
+<br>
+
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Elementor-1572B6?logo=elementor&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&color=blue&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+
+<br>
+<hr>
+<br>
+
+🚀 **<a href="https://poraocrossfit.com/" target="blank">Porão Crossfit</a>** | 💡 **Company Website** | 📆 2021\
+💻 **Developer:** Theme customization using the Elementor plugin and integration with CRM and MailChimp.
+<br>
+
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Elementor-1572B6?logo=elementor&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&color=blue&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 
