@@ -198,7 +198,7 @@
 <hr>
 <br>
 
-🚀 **<a href="https://vaideparalelas.com.br" target="_blank">Paralelas Calçados</a>** | 💡 **Ecommerce** | 📆 2023\
+🚀 **<a href="https://vaideparalelas.com.br" target="_blank">Paralelas Calçados</a>** | 💡 **Ecommerce with ERP integration** | 📆 2023\
 ✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide.\
 💻 **Developer:** Front-end & Back-end development and Management of the integration API development project with ERP VarejoOnline .
  <br>
@@ -312,73 +312,70 @@
 <hr>
 <br>
 
+🚀 **<a href="https://giovannibruno.com.br" target="_blank">Giovanni Bruno Calçados</a>** | 💡 **Ecommerce with ERP integration** | 📆 2021\
+✏️ **Design:** UX/UI Design, with and high fidelity.\
+💻 **Developer:** Front-end & Back-end development and Management of the integration API development project with ERP and CRM.
+<br>
+ 
+<img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 
-- 👨‍💻 **Shopify theme Integrado ao ERP**\
-  📆 2023\
-📍 **Bikinny Society**\
-📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide\
-📍 Manager/Developer: Front-end & Back-end development
+<br>
+<hr>
 <br>
 
-<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
-<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+🚀 **<a href="https://eletronicaapolo.com.br" target="_blank">Emetrônica Apolo</a>** | 💡 **Ecommerce + Company Website** | 📆 2023\
+✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity\
+💻 **Developer:** Front-end & Back-end development and integration API development project with CRM, ERP and MailChimp
+<br>
+ 
+<img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 
-- 👨‍💻 **E-commerce Integrado ao ERP**\
-  📆 2023\
-📍 **Giovanni Bruno**\
-📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide\
-📍 Manager/Developer: Front-end & Back-end development
+<br>
+<hr>
 <br>
 
-<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
-<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
-
-- 👨‍💻 **Website Institucional + E-commrce**\
-  📆 2023\
-📍 **Eletronica Apolo**\
-📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide\
-📍 Manager/Developer: Front-end & Back-end development
+🚀 **Globo Consórcio** | 💡 **Company Website** | 📆 2017\
+✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide.\
+💻 **Developer:** Front-end & Back-end development.
 <br>
 
-<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
-<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 
-- 👨‍💻 **Website Institucional**\
-  📆 2017\
-📍 **Globo Consorcio**\
-📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade\
-📍 Developer: Front-end & Back-end development
+<br>
+<hr>
 <br>
 
-<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
-<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
-
-- 👨‍💻 **Website Institucional**\
-  📆 2016\
-📍 **Zoeweb**\
-📍 Developer: Front-end & Back-end development
+🚀 **Zoeweb** | 💡 **Company Website** | 📆 2016\
+💻 **Developer:** Front-end & Back-end development.
 <br>
 
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+
+<br>
+<hr>
+<br>
 
  
 </details>
