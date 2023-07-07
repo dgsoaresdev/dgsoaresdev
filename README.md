@@ -49,73 +49,83 @@
 <summary><h3>📃 Resume</h3></summary>
 <br>
 <h4>Experience</h4>
-
- <img align="right" src="https://img.shields.io/badge/Linux-563D7C?logo=linux&color=yellow&logoColor=black" />
- <img align="right" src="https://img.shields.io/badge/MySQL-563D7C?logo=mysql&color=13859f&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
-  <img align="right" src="https://img.shields.io/static/v1?label=PHP&message=Codeigniter&color=purple&style=flat&logo=php&logoColor=white" />
-   <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-
-- 👨‍💻 **PHP Software Developer**\
-📆 2021 - moment\
-📍 **Haws Digital Software Software** - Fortaleza/CE, BR
-
-<br>
-
-<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
-<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
-
-- 👨‍💻 **Full Stack & UX/UI**\
-📆 2015 - moment\
-📍 **I9ME Webdesign** - Fortaleza/CE, BR
-
-<br>
-
-<img align="right" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
-<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Magento-1572B6?logo=magento&color=red&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
-
-- 👨‍💻 **PMP | Full Stack Developer | UX/UI**\
-📆 2013 - 2015\
-📍 **MMMODA** - Fortaleza/CE, BR
-
-<br>
-
-<img align="right" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Webservice-E34F26?logo=fastapi&color=blue&logoColor=white" />
-<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Magento-1572B6?logo=magento&color=red&logoColor=white" />
-
-- 👨‍💻 **PMP | Front-end Developer | UI Designer**\
-📆 2010 - 2013\
-📍 **ZoeWeb** - Goiânia/GO, BR
-
 <br>
  
- <img align="right" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/MySQL-563D7C?logo=mysql&color=13859f&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-1572B6?logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-<img align="right" src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white" />
+👨‍💻 **PHP Software Developer** | 📆 2021 - moment\
+📍 **Haws Digital Software Software** - Fortaleza/CE, BR
+<br>
 
-- 👨‍💻 **Front-end Developer | UI Designer**\
-📆 2007 - 2010\
+<img align="left" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/static/v1?label=PHP&message=Codeigniter&color=purple&style=flat&logo=php&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/MySQL-563D7C?logo=mysql&color=13859f&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Linux-563D7C?logo=linux&color=yellow&logoColor=black" />
+
+<br>
+<hr>
+<br>
+
+👨‍💻 **Full Stack & UX/UI** | 📆 2015 - moment\
+📍 **I9ME Webdesign** - Fortaleza/CE, BR
+<br>
+
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+
+<br>
+<hr>
+<br>
+
+👨‍💻 **PMP | Full Stack Developer | UX/UI** | 📆 2013 - 2015\
+📍 **MMMODA** - Fortaleza/CE, BR
+<br>
+
+<img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Magento-1572B6?logo=magento&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
+
+<br>
+<hr>
+<br>
+
+👨‍💻 **PMP | Front-end Developer | UI Designer** | 📆 2010 - 2013\
+📍 **ZoeWeb** - Goiânia/GO, BR
+<br>
+<img align="left" src="https://img.shields.io/badge/Magento-1572B6?logo=magento&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/Webservice-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
+
+<br>
+<hr>
+<br>
+
+👨‍💻 **Front-end Developer | UI Designer** | 📆 2007 - 2010\
 📍 **Neo Criação** - Açailândia/MA, BR
+<br>
+<img align="left" src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/PHP-1572B6?logo=php&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/MySQL-563D7C?logo=mysql&color=13859f&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
+
+
+
 
 <br>
 
@@ -135,7 +145,7 @@
 
 - 👨‍💻 **English Course** - Degree\
 📆 2023 - moment\
-📍 **ABA English, +** - Online
+📍 **ABA English** - Online
 <br>
 
 - 👨‍💻 **Codeigniter PHP Framework** - Technical Course\
