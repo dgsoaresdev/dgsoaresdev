@@ -306,7 +306,6 @@
 <img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 <img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/ERP-E34F26?logo=erp&color=blue&logoColor=white" />
 <img align="left" src="https://img.shields.io/static/v1?label=ERP&message=Bling&color=0e640e&style=flat" />
 
 <br>
