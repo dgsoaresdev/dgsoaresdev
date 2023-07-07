@@ -182,8 +182,8 @@
 <br>
 
 🚀 **<a href="https://captacomercial.com.br" target="_blank">Emilio Ribas</a>** | 💡 **Wordpress new features** | 📆 2022 - moment\
-✏️ Designer: UX/UI Design, with prototyping in low, medium and high fidelity | creation of new user interfaces\
-💻 Developer: Front-end & Back-end Development | New features in theme and new plugins
+✏️ **Designer:** UX/UI Design, with prototyping in low, medium and high fidelity | creation of new user interfaces\
+💻 **Developer:** Front-end & Back-end Development | New features in theme and new plugins
 <br>
 
 <img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
@@ -199,8 +199,8 @@
 <br>
 
 🚀 **<a href="https://vaideparalelas.com.br" target="_blank">Paralelas Calçados</a>** | 💡 **Ecommerce** | 📆 2023\
-✏️ Design management: Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide\
-💻 Developer: Front-end & Back-end development and Management of the integration API development project with ERP VarejoOnline 
+✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide\
+💻 **Developer:** Front-end & Back-end development and Management of the integration API development project with ERP VarejoOnline 
  <br>
 
 <img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
@@ -216,8 +216,8 @@
 <br>
 
 🚀 **<a href="https://cialne.com.br" target="_blank">CIALNE Alimentos</a>** | 💡 **Company Website** | 📆 2022\
-✏️ Design management: Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide\
-💻 Developer: Front-end & Back-end development
+✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide\
+💻 **Developer:** Front-end & Back-end development
 <br>
 
 <img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
@@ -231,9 +231,9 @@
 <hr>
 <br>
 
-🚀 **Masterquip** | 💡 **Company Website** | 📆 2023\
-✏️ Design management: Management UX/UI Design, with prototyping in low, medium and high fidelity\
-💻 Developer: Front-end & Back-end development and integration API development project with CRM and MailChimp
+🚀 **Masterquip** | 💡 **Ecommerce + Company Website** | 📆 2023\
+✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity\
+💻 **Developer:** Front-end & Back-end development and integration API development project with CRM and MailChimp
 <br>
  
 <img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
@@ -249,8 +249,8 @@
 <br>
 
 🚀 **Agendaê** | 💡 **UX/UI Design for Mobile App with two versions (partner & customer)** | 📆 2022\
-✏️ Design management: Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide\
-💻 Developer: Front-end & Back-end development
+✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide\
+💻 **Developer:** Front-end & Back-end development
 <br>
 
 <img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
@@ -260,8 +260,8 @@
 <br>
 
 🚀 **<a href="https://captacomercial.com.br" target="_blank">Capta Venda Consultiva</a>** | 💡 **Ecommerce + Company Site** | 📆 2022\
-✏️ Design management: Management UX/UI Design, with prototyping in low, medium and high fidelity\
-💻 Developer: Front-end & Back-end development and integration API development project with CRM and MailChimp 
+✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity\
+💻 **Developer:** Front-end & Back-end development and integration API development project with CRM and MailChimp 
  <br>
 
 <img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
@@ -284,20 +284,23 @@
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 
-- 💡 **Website Institucional + E-commerce**\
-🚀 **Artefapi**\
-📆 2023\
-✏️ UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide\
-💻 Developer: Front-end & Back-end development
+🚀 ***<a href="https://artefapi.com.vr.com.br" target="_blank">Artefapi</a>** | 💡 **Ecommerce + Company Website** | 📆 2023\
+✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity\
+💻 **Developer:** Front-end & Back-end development and integration API development project with CRM and MailChimp
+<br>
+ 
+<img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+
+<br>
+<hr>
 <br>
 
-<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
-<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 
 - 👨‍💻 **Shopify theme Integrado ao ERP**\
   📆 2023\
