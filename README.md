@@ -17,7 +17,9 @@
     </p>
 
 <h2>About me</h2>
-<p>Wide experience in projects, with Front/Back Development and UX/UI Design skills. 🔭 Currently, I'm studying AI, Computer Engineering FrontEnd.JS and English.</p>
+<p>Wide experience in projects, with Front/Back Development and UX/UI Design skills. 🔭 Currently, I'm studying AI, FrontEnd.JS and English.</p>
+<p>I want to apply for an IT degree with English language. And I will do this as soon as my studies in idima progress.</p>
+<br>
 <h3>Skills & Tools</h3>
  <p style="display: flex;justify-content: center; text-align: center; width: 100%;">
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251631059-a6ef62f9-dc42-4b3e-8797-d2a2a9f6091a.png" alt="PHP" />
@@ -170,11 +172,12 @@
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 
-- 👨‍💻 **Software PHP - Developer Full  Stack**\
+- 👨‍💻 **Software PHP**\
 📆 2022 - moment\
-📍 **Edu Plataforma**
-📍 Designer: Protipações em baixa, média e alta fidalidade
+📍 **Edu Plataforma**\
+📍 Designer: Protipações em baixa, média e alta fidalidade\
 📍 Developer: Front-end & Back-end development
+
 <br>
 
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
@@ -187,8 +190,8 @@
 
 - 👨‍💻 **Increments**\
 📆 2022 - moment\
-📍 **Emilio Ribas**
-📍 Designer: Protipações em baixa, média e alta fidalidade
+📍 **Emilio Ribas**\
+📍 Designer: Protipações em baixa, média e alta fidalidade\
 📍 Developer: Front-end & Back-end development
 
 <br>
@@ -202,8 +205,8 @@
 
 - 👨‍💻 **Website Institucional**\
 📆 2023\
-📍 **Paralelas** www.cialne.com.br
-📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 **Paralelas**\
+📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide\
 📍 Developer: Front-end & Back-end development
  <br>
  
@@ -217,8 +220,8 @@
 
 - 👨‍💻 **Website Institucional**\
 📆 2023\
-📍 **CIALNE Alimentos** www.cialne.com.br
-📍 UX/UI Manager: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 **CIALNE Alimentos**\
+📍 UX/UI Manager: Protipações em baixa, média e alta fidalidade | Style Guide\
 📍 Developer: Front-end & Back-end development
  <br>
  
@@ -232,8 +235,8 @@
 
  - 👨‍💻 **Website Institucional**\
 📆 2023\
-📍 **Masterquip** www.masterquip.com.br
-📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 **Masterquip**\
+📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide\
 📍 Developer: Front-end & Back-end development
  <br>
  
@@ -247,8 +250,8 @@
 
    - 👨‍💻 **UX/UI Design for Mobile App**\
 📆 2021\
-📍 **Capta Comercial** www.masterquip.com.br
-📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 **Capta Comercial**\
+📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide\
 📍 Developer: Front-end & Back-end development
 <br>
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
@@ -261,8 +264,8 @@
 
   - 👨‍💻 **Website Institucional**\
 📆 2023\
-📍 **Capta Comercial** www.masterquip.com.br
-📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 **Capta Comercial**\
+📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide\
 📍 Developer: Front-end & Back-end development
 <br>
 
@@ -276,9 +279,39 @@
 
 - 👨‍💻 **Website Institucional + E-commerce**\
  📆 2023\
-📍 **Artefapi** www.masterquip.com.br
-📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 **Artefapi**\
+📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide\
 📍 Developer: Front-end & Back-end development
+<br>
+
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
+- 👨‍💻 **Shopify theme Integrado ao ERP**\
+  📆 2023\
+📍 **Bikinny Society**\
+📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide\
+📍 Manager/Developer: Front-end & Back-end development
+<br>
+
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
+- 👨‍💻 **E-commerce Integrado ao ERP**\
+  📆 2023\
+📍 **Giovanni Bruno**\
+📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide\
+📍 Manager/Developer: Front-end & Back-end development
 <br>
 
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
@@ -291,8 +324,8 @@
 
 - 👨‍💻 **Website Institucional + E-commrce**\
   📆 2023\
-📍 **Eletronica Apolo** www.masterquip.com.br
-📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 **Eletronica Apolo**\
+📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide\
 📍 Manager/Developer: Front-end & Back-end development
 <br>
 
@@ -306,8 +339,8 @@
 
 - 👨‍💻 **Website Institucional**\
   📆 2017\
-📍 **Globo Consorcio** www.masterquip.com.br
-📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade
+📍 **Globo Consorcio**\
+📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade\
 📍 Developer: Front-end & Back-end development
 <br>
 
@@ -319,12 +352,13 @@
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 
- 📆 2016\
-📍 **Zoeweb** www.masterquip.com.br
+- 👨‍💻 **Website Institucional**\
+  📆 2016\
+📍 **Zoeweb**\
 📍 Developer: Front-end & Back-end development
- <br>
- 
- 
+<br>
+
+
  
 </details>
 
