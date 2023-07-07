@@ -1,8 +1,12 @@
 <h1>Hi there 👋 I'm Diogo</h1>
  <p>A front-end/back-end developer with experience in UX/UI Design 👨‍💻</p>
  
-  <p>
-  <a href="https://www.linkedin.com/in/dgsoares/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251623217-58d38f53-ad3d-488d-b15e-42247b1dcc7b.png" alt="Linkedin DgSoares" /></a>
+  <p style="display: flex;justify-content: center; text-align: center; width: 100%;">
+  <a style="display:inline-block" "href="https://www.linkedin.com/in/dgsoares/" target="_blank"><img alt="Linkedin" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251623217-58d38f53-ad3d-488d-b15e-42247b1dcc7b.png" alt="Linkedin DgSoares" /></a>
+   <a style="display:inline-block" href="https://www.linkedin.com/in/dgsoares/" target="_blank"><img alt="Behance" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251623217-58d38f53-ad3d-488d-b15e-42247b1dcc7b.png" alt="Linkedin DgSoares" /></a>
+   <a style="display:inline-block" href="https://www.linkedin.com/in/dgsoares/" target="_blank"><img alt="Twitter" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251623217-58d38f53-ad3d-488d-b15e-42247b1dcc7b.png" alt="Linkedin DgSoares" /></a>
+   <a style="display:inline-block" href="https://www.linkedin.com/in/dgsoares/" target="_blank"><img alt="Youtube" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251623217-58d38f53-ad3d-488d-b15e-42247b1dcc7b.png" alt="Linkedin DgSoares" /></a>
+   <a style="display:inline-block" href="https://www.linkedin.com/in/dgsoares/" target="_blank"><img alt="Instagram" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251623217-58d38f53-ad3d-488d-b15e-42247b1dcc7b.png" alt="Linkedin DgSoares" /></a>
     </p>
 
 <h3>About me</h3>
