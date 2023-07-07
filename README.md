@@ -172,7 +172,7 @@
 <img align="right" src="https://img.shields.io/badge/Codeigniter-1572B6?logo=codeigniter&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 
-- 💡 **Software PHP**\
+- 💡 **PHP Software**\
 🚀 **Edu Plataforma - E-learning Platform**\
 📆 2022 - moment\
 ✏️ Designer: UX/UI Design, with prototyping in low, medium and high fidelity\
@@ -187,11 +187,11 @@
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 
-- 💡 **Wordpress New Features**\
+- 💡 **Wordpress new features**\
 🚀 **Emilio Ribas**\
 📆 2022 - moment\
-✏️ Designer: Protipações em baixa, média e alta fidalidade\
-💻 Developer: Front-end & Back-end development
+✏️ Designer: UX/UI Design, with prototyping in low, medium and high fidelity | creation of new user interfaces\
+💻 Developer: Front-end & Back-end Development | New features in theme and new plugins
 
 <br>
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
@@ -202,14 +202,13 @@
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 
-- 💡 **Website Institucional**\
-🚀 **Paralelas**\
+- 💡 **Ecommerce**\
+🚀 **Paralelas Calçados**\
 📆 2023\
-✏️ Manager: Protipações em baixa, média e alta fidalidade | Style Guide\
-💻 Developer: Front-end & Back-end development
+✏️ Design management: Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide\
+💻 Developer: Front-end & Back-end development and Management of the integration API development project with ERP VarejoOnline 
  <br>
  
-<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
@@ -217,10 +216,10 @@
 <img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 
-- 💡 **Website Institucional**\
+- 💡 **Company Website**\
 🚀 **CIALNE Alimentos**\
-📆 2023\
-✏️ UX/UI Manager: Protipações em baixa, média e alta fidalidade | Style Guide\
+📆 2022\
+✏️ Design management: Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide\
 💻 Developer: Front-end & Back-end development
  <br>
  
