@@ -117,6 +117,28 @@
 📍 **NeoCriação** - Açailândia/MA, BR
 
  .
+
+ <h4>Education</h4>
+
+ <img align="right" src="https://img.shields.io/badge/Linux-563D7C?logo=linux&color=yellow&logoColor=black" />
+ <img align="right" src="https://img.shields.io/badge/MySQL-563D7C?logo=mysql&color=13859f&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+  <img align="right" src="https://img.shields.io/static/v1?label=PHP&message=Codeigniter&color=purple&style=flat&logo=php&logoColor=white" />
+   <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+
+- 👨‍💻 **Computer engineering**\
+📆 2023 - moment\
+📍 **Faculdade Descomplica** BR
+
+ .
+
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+
+- 👨‍💻 **Advertising Degree**\
+📆 2010 - 2013\
+📍 **PUC - GO** BR
 </details>
 
 <details>
