@@ -17,7 +17,7 @@
     </p>
 
 <h2>About me</h2>
-<p>Wide experience in projects, with Front/Back Development and UX/UI Design skills. Currently, I'm studying AI, FrontEnd.JS and English.</p>
+<p>Wide experience in projects, with Front/Back Development and UX/UI Design skills. 🔭 Currently, I'm studying AI, Computer Engineering FrontEnd.JS and English.</p>
 <h3>Skills & Tools</h3>
  <p style="display: flex;justify-content: center; text-align: center; width: 100%;">
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251631059-a6ef62f9-dc42-4b3e-8797-d2a2a9f6091a.png" alt="PHP" />
@@ -62,7 +62,7 @@
 📆 2021 - moment\
 📍 **Haws Digital Software Software** - Fortaleza/CE, BR
 
- .
+<br>
 
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
 <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
@@ -76,7 +76,7 @@
 📆 2015 - moment\
 📍 **I9ME Webdesign** - Fortaleza/CE, BR
 
- .
+<br>
 
 <img align="right" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
@@ -90,7 +90,7 @@
 📆 2013 - 2015\
 📍 **MMMODA** - Fortaleza/CE, BR
 
- .
+<br>
 
 <img align="right" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Webservice-E34F26?logo=fastapi&color=blue&logoColor=white" />
@@ -103,7 +103,7 @@
 📆 2010 - 2013\
 📍 **ZoeWeb** - Goiânia/GO, BR
 
- .
+<br>
  
  <img align="right" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/MySQL-563D7C?logo=mysql&color=13859f&logoColor=white" />
@@ -116,27 +116,31 @@
 📆 2007 - 2010\
 📍 **NeoCriação** - Açailândia/MA, BR
 
- .
+<br>
 
  <h4>Education</h4>
 
- <img align="right" src="https://img.shields.io/badge/Linux-563D7C?logo=linux&color=yellow&logoColor=black" />
- <img align="right" src="https://img.shields.io/badge/MySQL-563D7C?logo=mysql&color=13859f&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
-  <img align="right" src="https://img.shields.io/static/v1?label=PHP&message=Codeigniter&color=purple&style=flat&logo=php&logoColor=white" />
-   <img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-
-- 👨‍💻 **Computer engineering**\
+- 👨‍💻 **Computer engineering** - Bachelor\
 📆 2023 - moment\
 📍 **Faculdade Descomplica** BR
 
- .
+- 👨‍💻 **Cyber Security** - Technical Course\
+📆 2023 - moment\
+📍 **Faculdade Descomplica** BR
 
-<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
-<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+- 👨‍💻 **Codeigniter PHP Framework** - Technical Course\
+📆 2018\
+📍 **Faculdade Descomplica** BR
 
-- 👨‍💻 **Advertising Degree**\
+- 👨‍💻 **PHPOO** - Technical Course\
+📆 2013\
+📍 **Faculdade Descomplica** BR
+
+- 👨‍💻 **UX/UI Design** - Technical Course\
+📆 2013\
+📍 **Faculdade Descomplica** BR
+
+- 👨‍💻 **Advertising Degree** - Bachelor\
 📆 2010 - 2013\
 📍 **PUC - GO** BR
 </details>
@@ -144,7 +148,71 @@
 <details>
 <summary><h3>💼 Portfolio</h3></summary>
 <br>
-Well, you asked for it!
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
+
+- 👨‍💻 **Increments**\
+📆 2022 - moment\
+📍 **Emilio Ribas**
+📍 Designer: Protipações em baixa, média e alta fidalidade
+📍 Developer: Front-end & Back-end development
+<br>
+- 👨‍💻 **Website Institucional**\
+📆 2023\
+📍 **Paralelas** www.cialne.com.br
+📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 Developer: Front-end & Back-end development
+ <br>
+- 👨‍💻 **Website Institucional**\
+📆 2023\
+📍 **CIALNE Alimentos** www.cialne.com.br
+📍 UX/UI Manager: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 Developer: Front-end & Back-end development
+ <br>
+ - 👨‍💻 **Website Institucional**\
+📆 2023\
+📍 **Masterquip** www.masterquip.com.br
+📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 Developer: Front-end & Back-end development
+ <br>
+   - 👨‍💻 **UX/UI Design for Mobile App**\
+📆 2021\
+📍 **Capta Comercial** www.masterquip.com.br
+📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 Developer: Front-end & Back-end development
+ <br>
+  - 👨‍💻 **Website Institucional**\
+📆 2023\
+📍 **Capta Comercial** www.masterquip.com.br
+📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 Developer: Front-end & Back-end development
+ <br>
+ 📆 2023\
+📍 **Artefapi** www.masterquip.com.br
+📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 Developer: Front-end & Back-end development
+ <br>
+  📆 2023\
+📍 **Eletronica Apolo** www.masterquip.com.br
+📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide
+📍 Manager/Developer: Front-end & Back-end development
+ <br>
+  📆 2017\
+📍 **Globo Consorcio** www.masterquip.com.br
+📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade
+📍 Developer: Front-end & Back-end development
+ <br>
+ 📆 2016\
+📍 **Zoeweb** www.masterquip.com.br
+📍 Developer: Front-end & Back-end development
+ <br>
+ 
+ 
 </details>
 
 <!--
