@@ -1,16 +1,12 @@
-## Hi there 👋 I'm Diogo
- A front-end/back-end developer with experience in UX/UI Design 👨‍💻
+<h1>Hi there 👋 I'm Diogo</h1>
+ <p>A front-end/back-end developer with experience in UX/UI Design 👨‍💻</p>
  
-  <a href="https://www.linkedin.com/in/dgsoares/" target="_blank">
- <img src="https://github.com/dgsoaresdev/dgsoaresdev/assets/25693566/58d38f53-ad3d-488d-b15e-42247b1dcc7b" alt="Linkedin DgSoares" />
-  </a>
+  <p>
+  <a href="https://www.linkedin.com/in/dgsoares/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251623217-58d38f53-ad3d-488d-b15e-42247b1dcc7b.png" alt="Linkedin DgSoares" /></a>
+    </p>
 
-
-
-**About me**
-
-Wide experience in projects, with Front/Back Development and UX/UI Design skills. Currently, I'm studying AI, FrontEnd.JS and English.
-
+<h3>About me</h3>
+<p>Wide experience in projects, with Front/Back Development and UX/UI Design skills. Currently, I'm studying AI, FrontEnd.JS and English.</p>
 <details>
 <summary>📃 Resume</summary>
 <br>
