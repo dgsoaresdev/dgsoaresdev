@@ -162,51 +162,114 @@
 📍 Designer: Protipações em baixa, média e alta fidalidade
 📍 Developer: Front-end & Back-end development
 <br>
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 - 👨‍💻 **Website Institucional**\
 📆 2023\
 📍 **Paralelas** www.cialne.com.br
 📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide
 📍 Developer: Front-end & Back-end development
  <br>
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
 - 👨‍💻 **Website Institucional**\
 📆 2023\
 📍 **CIALNE Alimentos** www.cialne.com.br
 📍 UX/UI Manager: Protipações em baixa, média e alta fidalidade | Style Guide
 📍 Developer: Front-end & Back-end development
  <br>
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
  - 👨‍💻 **Website Institucional**\
 📆 2023\
 📍 **Masterquip** www.masterquip.com.br
 📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
 📍 Developer: Front-end & Back-end development
  <br>
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
    - 👨‍💻 **UX/UI Design for Mobile App**\
 📆 2021\
 📍 **Capta Comercial** www.masterquip.com.br
 📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
 📍 Developer: Front-end & Back-end development
- <br>
+<br>
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
   - 👨‍💻 **Website Institucional**\
 📆 2023\
 📍 **Capta Comercial** www.masterquip.com.br
 📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
 📍 Developer: Front-end & Back-end development
- <br>
+<br>
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
  📆 2023\
 📍 **Artefapi** www.masterquip.com.br
 📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade | Style Guide
 📍 Developer: Front-end & Back-end development
- <br>
+<br>
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
   📆 2023\
 📍 **Eletronica Apolo** www.masterquip.com.br
 📍 Manager: Protipações em baixa, média e alta fidalidade | Style Guide
 📍 Manager/Developer: Front-end & Back-end development
- <br>
+<br>
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
   📆 2017\
 📍 **Globo Consorcio** www.masterquip.com.br
 📍 UX/UI Designer: Protipações em baixa, média e alta fidalidade
 📍 Developer: Front-end & Back-end development
- <br>
+<br>
+<img align="right" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+<img align="right" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-1572B6?logo=figma&color=red&logoColor=white" />
  📆 2016\
 📍 **Zoeweb** www.masterquip.com.br
 📍 Developer: Front-end & Back-end development
