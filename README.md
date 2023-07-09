@@ -364,7 +364,7 @@
 <hr>
 <br>
 
-🚀 **<a href="http://franquia.pizzavignoli.com.br/" target="_blank">Barneys Burger</a>** | 💡 **Company Website** | 📆 2019\
+🚀 **<a href="https://www.behance.net/gallery/174866025/Website-design-and-development-for-Barneys-Burger" target="_blank">Barneys Burger</a>** | 💡 **Company Website** | 📆 2019\
 ✏️ **Design:** UX/UI Design, with prototyping in low, medium and high fidelity.\
 💻 **Developer management:**  Team development, front-end and back-end. Integration with CRM and Mailchimp.
 <br>
@@ -381,7 +381,24 @@
 <hr>
 <br>
 
-🚀 **<a href="http://franquia.pizzavignoli.com.br/" target="_blank">Franquia Barneys Burger</a>** | 💡 **Landing Page** | 📆 2018\
+🚀 **<a href="https://www.behance.net/gallery/174865759/Landing-Page-design-and-development-for-Barneys-Burger" target="_blank">Franquia Barneys Burger</a>** | 💡 **Landing Page - Dark Mode** | 📆 2018\
+✏️ **Design:** UX/UI Design, with prototyping in low, medium and high fidelity.\
+💻 **Developer:** Front-end & Back-end development and integration API development project with CRM and MailChimp.
+<br>
+ 
+<img align="left" src="https://img.shields.io/badge/Wordpress-1572B6?logo=wordpress&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Adobe-1572B6?logo=adobe&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SaSS-1572B6?logo=sass&color=purple&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Gulp-1572B6?logo=gulp&color=red&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?label=JavaScript&message=jQuery/Ajax&color=e6a408&style=flat&logo=javascript&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/API-E34F26?logo=fastapi&color=blue&logoColor=white" />
+
+<br>
+<hr>
+<br>
+
+🚀 **<a href="https://www.behance.net/gallery/174865571/Landing-Page-design-and-development-for-Barneys-Burger" target="_blank">Franquia Barneys Burger</a>** | 💡 **Landing Page** | 📆 2018\
 ✏️ **Design:** UX/UI Design, with prototyping in low, medium and high fidelity.\
 💻 **Developer:** Front-end & Back-end development and integration API development project with CRM and MailChimp.
 <br>
