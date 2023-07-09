@@ -201,7 +201,7 @@
 
 🚀 **<a href="https://vaideparalelas.com.br" target="_blank">Paralelas Calçados</a>** | 💡 **Ecommerce with ERP integration** | 📆 2023\
 ✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide.\
-💻 **Developer:** Front-end & Back-end development and Management of the integration API development project with ERP VarejoOnline .
+💻 **Developer:** Front-end & Back-end development and Management of the integration API development project with ERP VarejoOnline.
  <br>
 
 <img align="left" src="https://img.shields.io/badge/Wordpress | WooCommerce-1572B6?logo=wordpress&logoColor=white" />
