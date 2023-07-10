@@ -17,7 +17,7 @@
 
 <h2>About me</h2>
 <p>Wide experience in projects, with Front/Back Development and UX/UI Design skills. 🔭 Currently, I'm studying AI, FrontEnd.JS and English.</p>
-<p>I want to apply for an IT degree with English language. And I will do this as soon as my studies in idima progress.</p>
+
 <br>
 <h3>Skills & Tools</h3>
  <p style="display: flex;justify-content: center; text-align: center; width: 100%;">
