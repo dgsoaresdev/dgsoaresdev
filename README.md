@@ -16,7 +16,11 @@
     </p>
 
 <h2>About me</h2>
-<p>Wide experience in projects, with Front/Back Development and UX/UI Design skills. 🔭 Currently, I'm studying AI, FrontEnd.JS and English.</p>
+<p>Extensive experience in leading, designing and developing software, website, e-commerce and other projects. I always sought to develop multiple professional skills within the same project, which made me a web developer with design skills and/or a design with developer skills.</p>
+
+<p>This approach to projects has always allowed me to deliver results beyond expectations, which is why it made me want even more to obtain technical knowledge about all areas of my work.</p>
+
+<p>Today I continue in this search and I am currently looking for opportunities that allow me to grow in experience and didactic learning. My study roadmap currently includes AI/MachineLearning, FrontEnd.JS and English language.</p>
 
 <br>
 <h3>Skills & Tools</h3>
