@@ -138,7 +138,7 @@
  <h4>Education:</h4>
  <br>
 
-👨‍💻 **Machine Learning** - Degree | 📆 2023 - moment\
+👨‍💻 **Machine Learning** | 📆 2023 - moment\
 📍 **UDACITY** Online
 <br>
 
@@ -146,7 +146,11 @@
 📍 Online
 <br>
 
-👨‍💻 **English Course** - Degree | 📆 2023 - moment\
+👨‍💻 **Computer engineering** - Bachelor | 📆 2023\
+📍 **UNINTER - CE** BR
+<br>
+
+👨‍💻 **English Course**  | 📆 2023 - moment\
 📍 **ABA English** - Online
 <br>
 
