@@ -20,7 +20,7 @@
 
 <p>This approach to projects has always allowed me to deliver results beyond expectations, thus raising my need for more technical and creative skills.</p>
 
-<p>Today I continue on this journey and am currently looking for opportunities that allow me to grow in experience and didactic learning.</p>
+<p>Today I continue on this journey and always look for opportunities that allow me to grow in professional experience, in technical learning and as a person.</p>
 
 <p>Currently, my study schedule includes AI/MachineLearning, FrontEnd.JS and English.</p>
 
