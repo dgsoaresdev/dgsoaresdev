@@ -449,7 +449,7 @@
 <br>
 
 🚀 **<a href="https://www.behance.net/gallery/174857025/Website-design-and-development-for-Globo-Consorcio" target="blank">Globo Consórcio** | 💡 **Company Website** | 📆 2017\
-✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity | Style Guide.\
+✏️ **Design:** UX/UI Design with prototyping in low, medium and high fidelity | Style Guide.\
 💻 **Developer:** Front-end & Back-end development.
 <br>
 
