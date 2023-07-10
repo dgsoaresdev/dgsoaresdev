@@ -152,7 +152,7 @@
 📍 Online
 <br>
 
-👨‍💻 **UX/UI Design** - Technical Course | 📆 2013\
+👨‍💻 **UX/UI Design** - Technical Course | 📆 2011\
 📍 Online
 <br>
 
