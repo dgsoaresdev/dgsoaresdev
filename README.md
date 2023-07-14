@@ -287,7 +287,7 @@
 <hr>
 <br>
 
-🚀 **<a href="https://artefapi.com.br.com.br" target="_blank">Artefapi</a>** | 💡 **Ecommerce + Company Website** | 📆 2023\
+🚀 **<a href="https://artefapi.com.br.com.br" target="_blank">Artefapi</a>** | 💡 **Ecommerce + Company Website** | 📆 2021\
 ✏️ **Design management:** Management UX/UI Design, with prototyping in low, medium and high fidelity.\
 💻 **Developer:** Front-end & Back-end development and integration API development project with CRM and ActiveCampaign.
 <br>
