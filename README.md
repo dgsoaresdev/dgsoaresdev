@@ -11,7 +11,7 @@
    </a>
    <a style="display:inline-block" href="https://www.behance.net/dgsoares" target="_blank"><img alt="Berance" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626928-dc7ec870-3bd5-4c6f-9fe9-0b8aacf0c91b.png" alt="Behance DgSoares" />
    </a>
-   <a style="display:inline-block" href="https://twitter.com/DgSoaresDev" target="_blank"><img alt="Twitter" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626795-d35d87cc-0872-4eb7-ade3-9f68a50d80a9.png" alt="Twitter DgSoares" />
+   <a style="display:inline-block" href="[https://twitter.com/DgSoaresDev](https://twitter.com/DgSoaresTech)" target="_blank"><img alt="Twitter" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626795-d35d87cc-0872-4eb7-ade3-9f68a50d80a9.png" alt="Twitter DgSoares" />
    </a>
     </p>
 
