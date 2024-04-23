@@ -3,7 +3,7 @@
   <p style="display: flex;justify-content: center; text-align: center; width: 100%;">
   <a style="display:inline-block" href="https://www.linkedin.com/in/dgsoares/" target="_blank"><img alt="Linkedin" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251623217-58d38f53-ad3d-488d-b15e-42247b1dcc7b.png" alt="Linkedin DgSoares" />
   </a>
-   <a style="display:inline-block" href="https://www.instagram.com/dgsoaresdev/" target="_blank"><img alt="Instagram" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626479-3530ff3d-3306-4c15-9eac-84e0296918e1.png" alt="Instagram DgSoares" />
+   <a style="display:inline-block" href="https://www.instagram.com/dgplsoares/" target="_blank"><img alt="Instagram" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626479-3530ff3d-3306-4c15-9eac-84e0296918e1.png" alt="Instagram DgSoares" />
    </a>
    <a style="display:inline-block" href="https://weweb.com.br/diogo-soares" target="_blank"><img alt="Site" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25693566/251626547-b3d0dbde-5cd4-4397-a7e2-d3e37cfe32c1.png" alt="Site DgSoares" />
    </a>
